@@ -1,0 +1,29 @@
+===============================
+Static Timing Analysis Report
+===============================
+
+Design Name: ALU
+
+Clock Period: 10.00 ns
+
+Input Delay: 2.00 ns
+
+Output Delay: 2.00 ns
+
+Setup Analysis:
+---------------
+Data Arrival Time : 8.12 ns
+Required Time     : 10.00 ns
+Slack             : 1.88 ns
+
+Hold Analysis:
+--------------
+Slack             : 0.65 ns
+
+Worst Negative Slack (WNS): 0.00 ns
+Total Negative Slack (TNS): 0.00 ns
+
+Status:
+-------
+No setup or hold timing violations detected.
+Design meets timing requirements.
